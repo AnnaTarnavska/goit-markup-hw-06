@@ -698,14 +698,6 @@ h2 {
     .team-info {
         gap: 64px 24px;
     }
-
-    /* .our-team-section>.container {
-        padding: 0 108px;
-    } */
-    /* 
-    .team-member {
-        width: calc((100% - 24px) / 2);
-    } */
 }
 
 @media screen and (min-width: 1158px) {
